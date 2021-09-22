@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/temperature/static/css/main.0d45987e.chunk.css",
+    "main.js": "/temperature/static/js/main.fd88e82d.chunk.js",
+    "main.js.map": "/temperature/static/js/main.fd88e82d.chunk.js.map",
+    "runtime-main.js": "/temperature/static/js/runtime-main.07b93c63.js",
+    "runtime-main.js.map": "/temperature/static/js/runtime-main.07b93c63.js.map",
+    "static/js/2.75511c8b.chunk.js": "/temperature/static/js/2.75511c8b.chunk.js",
+    "static/js/2.75511c8b.chunk.js.map": "/temperature/static/js/2.75511c8b.chunk.js.map",
+    "static/js/3.32183322.chunk.js": "/temperature/static/js/3.32183322.chunk.js",
+    "static/js/3.32183322.chunk.js.map": "/temperature/static/js/3.32183322.chunk.js.map",
+    "index.html": "/temperature/index.html",
+    "static/css/main.0d45987e.chunk.css.map": "/temperature/static/css/main.0d45987e.chunk.css.map",
+    "static/js/2.75511c8b.chunk.js.LICENSE.txt": "/temperature/static/js/2.75511c8b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07b93c63.js",
+    "static/js/2.75511c8b.chunk.js",
+    "static/css/main.0d45987e.chunk.css",
+    "static/js/main.fd88e82d.chunk.js"
+  ]
+}
